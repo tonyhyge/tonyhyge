@@ -1,6 +1,6 @@
 <h1 align="center">Phạm Quang Minh (Tony)</h1>
 <p align="center">
-  AI Engineer @ AILOGY · Undergraduate Researcher @ CSaC Lab, Van Lang University
+  AI Engineer Researcher @ AILOGY · Undergraduate Researcher @ Future Communications and Computer Science (FCCS) Lab, Van Lang University
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/minhtony"><img src="https://img.shields.io/badge/LinkedIn-minhtony-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,13 +12,14 @@
 
 - Research on **deep reinforcement learning** and **world models** for wireless communications
 - Working on **multi-RIS cell-free mmWave massive MIMO** with **short-packet URLLC**, focusing on scalable optimization solvers
+- **Computer vision**: object detection with YOLO models
 - Hands-on with **local LLM serving**, RAG and AI tooling on my own GPU workstation
 - Building [Ofivi](https://ofivi.com)
 - Open to remote / freelance collaboration on ML, RL and LLM projects
 
 ### Publications
 
-- **First author**, IEEE RIVF 2025
+- **P. Q. Minh**, L. N. Tan, N. H. Tu, N. T. Anh, "[Fruit Ripeness Detection: A Comparative Analysis of State-of-the-Art YOLO Models](https://ieeexplore.ieee.org/document/11365044/)," *IEEE RIVF 2025*.
 
 ### Tech stack
 
