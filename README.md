@@ -20,7 +20,7 @@
 ### Publications
 
 - **P. Q. Minh**, L. N. Tan, N. H. Tu, N. T. Anh, "[Fruit Ripeness Detection: A Comparative Analysis of State-of-the-Art YOLO Models](https://ieeexplore.ieee.org/document/11365044/)," *IEEE RIVF 2025*.
-- "World Models, Measured: A Systematic Map and Coded Evidence Synthesis With a Loss-Level Template, Evidence-Graded Capability Levels, and a Result Register," submitted to *IEEE Access* (under review).
+- N. T. Anh, T. V. Vu, N. P. Nguyen, **P. Q. Minh**, T. T. Thanh, V. N. Q. Bao, N. H. Tu, "World Models, Measured: A Systematic Map and Coded Evidence Synthesis With a Loss-Level Template, Evidence-Graded Capability Levels, and a Result Register," submitted to *IEEE Access* (under review).
 
 ### Tech stack
 
