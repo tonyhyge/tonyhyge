@@ -1,6 +1,6 @@
 <h1 align="center">Phạm Quang Minh (Tony)</h1>
 <p align="center">
-  AI Engineer Researcher @ AILOGY · Undergraduate Researcher @ Future Communications and Computer Science (FCCS) Lab, Van Lang University
+  AI Engineer & Researcher @ AILOGY · Undergraduate Researcher @ Future Communications and Computer Science (FCCS) Lab, Van Lang University
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/minhtony"><img src="https://img.shields.io/badge/LinkedIn-minhtony-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
